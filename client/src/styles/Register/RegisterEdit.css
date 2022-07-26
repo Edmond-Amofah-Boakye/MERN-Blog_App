@@ -1,0 +1,51 @@
+
+.register-form form{
+    width: 70rem;
+    margin: 0 auto 1.5rem auto;
+    padding: 1.5rem;
+    background-color: white;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.register-form input{
+    display: block;
+    margin-bottom: 1.1rem;
+    width: 80%;
+}
+
+.register-form label{
+    font-size: 1.3rem;
+    color: rgb(234, 15, 15);
+    margin-bottom: 1rem;
+}
+
+.register-form span{
+    color: rgb(9, 32, 239);
+}
+
+.register-form h4{
+    margin-bottom: 1.2rem;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+}
+
+.register-form button{
+    width: 7rem;
+    padding: 0.4rem 0;
+    background-color: blue;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.first-sect{
+    flex: 8;
+    margin-right: 1rem;
+}
+
+.sec-part{
+    flex: 4;
+    margin-left: 1rem;
+}

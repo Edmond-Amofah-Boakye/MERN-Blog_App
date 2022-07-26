@@ -1,0 +1,47 @@
+.intro{
+    background-image: url('../../../public//images/abhishek-rai-kostsFVW59s-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    height: 60vh;
+    
+}
+
+.intro h1{
+    font-size: 1.8rem;
+    color: white;
+}
+
+.best-authors h1{
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.sec-info{
+    background-image: url('../../../public/images/henry-ascroft-4RJYV_rkoeM-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: rgb(244, 243, 243);
+}
+
+.famous-authors, .best-authors{
+    padding: 2rem 0;
+}
+.famous-wrp{
+    text-align: center;
+}
+.famous-wrp img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 75px;
+    -webkit-border-radius: 75px;
+    -moz-border-radius: 75px;
+    -ms-border-radius: 75px;
+    -o-border-radius: 75px;
+}

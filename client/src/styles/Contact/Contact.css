@@ -1,0 +1,52 @@
+.details{
+    text-align: center;
+    padding: 2rem 0;
+    background-color: sienna;
+    color: white;
+}
+
+.details p{
+    margin: 0;
+}
+
+.details h1{
+    margin: 1.2rem 0;
+}
+.cont-icons{
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+.cont-m{
+    padding: 3rem 0 1.2rem 0;
+}
+.messge-form form{
+    width: 40rem;
+    padding: 2rem;
+    background-color: white;
+}
+
+.messge-form input, textarea{
+    width: 100%;
+    padding: 0.5rem 0;
+    margin-bottom: 1.3rem;
+}
+
+.messge-form label{
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+}
+.messge-form button{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 0.5rem 1.2rem;
+    font-size: 1.2rem;
+    margin: 1.2rem 0;
+}
+.messge-us{
+    padding: 2rem;
+}
+.messge-us h4{
+    font-weight: bold;
+}

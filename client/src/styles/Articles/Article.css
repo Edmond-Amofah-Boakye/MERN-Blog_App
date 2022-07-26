@@ -1,0 +1,25 @@
+.form-article{
+    width: 50rem;
+    margin: 1rem auto;
+}
+
+.form-article input, textarea, select{
+    width: 100%;
+    padding: 0.6rem 0;
+    margin-bottom: 1.4rem;
+
+}
+.form-article label{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.form-article button{
+    width: 100%;
+    border: none;
+    padding: 0.6rem;
+    background-color: rgb(10, 205, 69);
+    color: white;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    padding: 1.3rem 0;
+}
+
+.text-links{
+    margin: 0 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+.nav--l{
+    padding: 0 2rem !important;
+    font-size: 1.2rem;
+    /* color: white !important; */
+}
+.nav--l:hover{
+    color: red !important;
+}
+
+.nav--h{
+    color: red !important;
+    font-size: 1.3rem !important;
+}
+
+.social-media-icons{
+   font-size: 1.6rem;
+   margin: 0 0.6rem;
+   cursor: pointer;
+}
+
+.social-media-icons:hover{
+    color: yellow;
+}

@@ -1,0 +1,39 @@
+
+.register-form-d form{
+    width: 40rem;
+    margin: 0 auto 1.5rem auto;
+    padding: 1.5rem;
+    background-color: white;
+    color: white;
+}
+.register-form-d input{
+    display: block;
+    margin-bottom: 1.1rem;
+    width: 80%;
+}
+
+.register-form-d label{
+    font-size: 1.3rem;
+    color: rgb(234, 15, 15);
+    margin-bottom: 1rem;
+}
+
+.register-form-d span{
+    color: rgb(9, 32, 239);
+}
+
+.register-form-d h4{
+    margin-bottom: 1.2rem;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+}
+
+.register-form-d button{
+    width: 7rem;
+    padding: 0.4rem 0;
+    background-color: blue;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+}

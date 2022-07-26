@@ -1,0 +1,58 @@
+.add-head{
+    background-color: aquamarine;
+    padding: 0.4rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 1.5rem 0;
+}
+
+.admin-wrp .other-links{
+    background-color: rgba(159, 159, 159, 0.929);
+    padding: 0.5rem;
+    margin: 1.2rem 0;
+}
+.card{
+    margin: 1rem 0;
+}
+.card-details{
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.card-view{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(237, 236, 236, 0.934);
+    padding: 0.5rem;
+}
+
+.card-icon{
+    font-size: 4rem;
+}
+
+.card-details h3{
+    font-weight: bolder;
+    font-size: 2rem;
+    color: rgba(10, 9, 9, 0.959);
+}
+
+.card-details h5{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: rgba(10, 9, 9, 0.959);
+}
+
+.card-view p{
+    font-size: 600px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    color: dodgerblue;
+}
+
+.view-icon{
+    font-size: 1.1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,60 @@
+.comment-wrapper{
+    width: 30rem;
+    margin: 2rem 0 0 0;
+}
+
+.comment-wrapper h4{
+    font-weight: bolder;
+    margin-bottom: 1.2rem;
+}
+
+
+.comment-wrapper input{
+    display: block;
+    width: 100%;
+    padding: 0.5rem 0;
+    margin-bottom: 1.3rem;
+}
+
+.comment-wrapper label{
+    display: block;
+    margin-bottom: 0.6rem;
+    font-weight: 700;
+}
+
+.comment-wrapper button{
+    padding: 0.4rem 0;
+    width: 7rem;
+    border: none;
+    color: white;
+    background-color: blue;
+    font-size: 1.2rem;
+    margin-top: 0.6rem;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.allcomments{
+    margin-top: 1.2rem;
+}
+
+.allcomments h4{
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.allcomments ul{
+    /* list-style-type: none; */
+    font-size: 1.1rem;
+}
+
+.allcomments ul li span{
+    padding: 0 1rem;
+}
+
+.name{
+    font-weight: bold;
+}

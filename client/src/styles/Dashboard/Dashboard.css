@@ -1,0 +1,30 @@
+.admin-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(16, 15, 15);
+    color: white;
+}
+
+.side{
+    margin-top: 7.5rem;
+    background-color: rgba(23, 23, 23, 0.939) !important;
+}
+
+.list-links{
+    list-style-type: none;
+    font-size: 1.5rem;
+    color: rgb(245, 240, 240);
+    padding: 1.2rem 0;
+    border-bottom: 1px solid white;
+    text-decoration: none;
+    display: block;
+}
+.list-links:hover{
+    color: rgba(255, 255, 255, 0.743);
+}
+
+.menu{
+    font-size: 1.4rem;
+    cursor: pointer;
+}
